@@ -13,9 +13,9 @@ Sou **Desenvolvedor Back-end e de Dados** com mais de 3 anos de experiência, es
 - **Outros:** Git, GitHub, SQL Server, PostgreSQL
 
 ## 📊 Minhas Estatísticas
-[![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LelekoDev&show_icons=true&theme=radium)](https://github.com/LelekoDev)
+[![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lelekodev&show_icons=true&theme=radium)](https://github.com/lelekodev)
 
 ## 📬 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/leonardo-s-a535991aa/)
 - [Email](mailto:leomachado.contatos@gmail.com)
-- [Portfólio/Site - Opcional](https://github.com/LelekoDev)
+- [Portfólio/Site](https://github.com/LelekoDev)
