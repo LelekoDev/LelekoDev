@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Leonardo! 👋
 
-<!--
-**LelekoDev/LelekoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Desenvolvedor Back-end e de Dados** com mais de 3 anos de experiência, especializado em criar soluções eficientes e automações. Atualmente cursando **Engenharia de Software**.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 💻 Trabalho atualmente com **Python** (Automações web com **Playwright**) e tratamento de dados.
+- 📚 Atualmente focando meus estudos na arquitetura e desenvolvimento com **C#, .NET** e Python**.
+- ⚙️ Apaixonado por otimizar processos, arquitetura de software e resolver problemas complexos no back-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens e Frameworks:** Python, C#, .NET
+- **Automação e Dados:** Playwright, Scripts de Extração
+- **Outros:** Git, GitHub, SQL Server, PostgreSQL
+
+## 📊 Minhas Estatísticas
+[![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LelekoDev&show_icons=true&theme=radium)](https://github.com/LelekoDev)
+
+## 📬 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/leonardo-s-a535991aa/)
+- [Email](mailto:leomachado.contatos@gmail.com)
+- [Portfólio/Site - Opcional](https://github.com/LelekoDev)
