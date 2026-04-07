@@ -22,6 +22,7 @@ Sou **Desenvolvedor Back-end e de Dados** com mais de 3 anos de experiência, es
 ## 🏆 Projetos
 - [Futebol-api-dotnet](https://github.com/LelekoDev/futebol-api-dotnet): API RESTful desenvolvida em .NET 10 para consulta e gestão de elencos de times de futebol, integrando dados reais de ligas com armazenamento local.
 - [Whatsapp-bot-lembretes](https://github.com/LelekoDev/Whatsapp-bot-lembretes): Um bot de WhatsApp feito em Python + Flask + Twilio, capaz de criar e enviar lembretes automáticos com base em mensagens recebidas. Simples e funcional.
+- [Universal-file-converter](https://github.com/LelekoDev/yourownfileconverter): Aplicativo desktop standalone desenvolvido em Python + CustomTkinter. Realiza conversões offline de arquivos do dia a dia (PDF para Word, Excel para CSV, JPG/PNG), empacotado como um executável (.exe) leve e focado em privacidade e praticidade para o usuário final.
 
 ## 📬 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/leonardo-s-a535991aa/)
