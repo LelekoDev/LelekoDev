@@ -3,7 +3,7 @@
 Sou **Desenvolvedor Back-end e de Dados** com mais de 3 anos de experiência, especializado em criar soluções eficientes e automações. Atualmente cursando **Engenharia de Software**.
 
 ## 👨🏽‍🦱 Sobre mim
-- Trabalho atualmente com **Python** (Automações web com **Playwright**) e tratamento de dados.
+- Trabalho atualmente com **Python** (Automações de processos e automações web com **Playwright**) e tratamento de dados.
 - Atualmente focando meus estudos na arquitetura e desenvolvimento com **C#**, **.NET** e **Python**.
 - Apaixonado por otimizar processos, arquitetura de software e resolver problemas complexos no back-end.
 
