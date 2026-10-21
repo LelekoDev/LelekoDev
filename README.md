@@ -25,7 +25,7 @@ Atualmente cursando **Engenharia de Software** (UNIFATECIE).
 - Integrações com APIs de mensageria (WhatsApp) e de documentos, além de uma URA ativa de voz (Voximplant)
 
 **Egger & Mesquita Advogados Associados** · Desenvolvedor Back-end & RPA · *Ago 2024 – Mai 2026*
-- Mais de 10 automações para cadastro, lançamento de despesas, pagamentos e importação de dados
+- Mais de 30 automações para cadastro, lançamento de despesas, pagamentos e importação de dados
 - Fluxos automatizados e humanizados de cobrança (WhatsApp, ligação e SMS), com geração de boletos sem intervenção humana
 
 **Egger & Mesquita Advogados Associados** · Analista de Dados (BI e ETL) · *Ago 2022 – Ago 2024*
