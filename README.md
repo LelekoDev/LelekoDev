@@ -11,7 +11,7 @@ Atualmente cursando **Engenharia de Software** (UNIFATECIE).
 
 ## 🚀 Destaques
 
-- **+10 automações** em Python + Playwright para os setores de cobrança, jurídico e administrativo
+- **+100 automações** em Python + Playwright para os setores de cobrança, jurídico e administrativo
 - **+200% de produtividade** no dia a dia das equipes atendidas, com produção equivalente a **mais de 1 funcionário em tempo integral**
 - **Hub interno de agentes de IA** usado por **cerca de 300 funcionários**, com autenticação LDAPS e controle de acesso por grupo do Active Directory
 - Pipelines de **ETL** e **dashboards em tempo real** sobre data lake em **Snowflake**
